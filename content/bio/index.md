@@ -1,4 +1,4 @@
 +++
 type = "widget_page"
-title = "Subscribe"
+title = "About me / Contact"
 +++
