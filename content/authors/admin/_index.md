@@ -14,7 +14,7 @@ role: Analytics Engineer / Data Scientist
 
 # Organizations/Affiliations
 #organizations:
-#- name: Flaregames
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,7 +67,7 @@ email: ""
 #- Visitors
 ---
 
-Guillaume Legoy is an analytics engineer and data scientist currently working at Flaregames GmbH in Karlsruhe Germany. He cumulates 5+ year of experience working in the mobile gaming industry and for startups. Previous companies he worked for include Playtika, nWay and Sportlogiq. He specializes in building analytics data pipelines enabling end users to build robust data products.  
+Guillaume Legoy is an analytics engineer and data scientist currently residing in Barcelona, after living in Canada and Germany. He cumulates 5+ year of experience working in the mobile gaming industry and for startups in Europe and North America. Previous companies he worked for include Playtika, nWay, Sportlogiq, and The Lighthouse. He specializes in building analytics data pipelines enabling end users to build robust data products.  
 
 
 This blog aims to teach in a simple way the "boring" software engineering and devops aspects of data science that are often overlooked but are vital to any project success.
