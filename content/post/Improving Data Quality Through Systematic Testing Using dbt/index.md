@@ -8,7 +8,7 @@ authors: []
 tags: [SQL, Testing, dbt]
 categories: [SQL, dbt, Testing]
 date: 2020-04-12T16:00:00+01:00
-lastmod:
+lastmod: 2020-04-12T16:00:00+01:00
 featured: false
 draft: false
 blackfriday:
