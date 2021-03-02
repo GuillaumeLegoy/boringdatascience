@@ -11,7 +11,7 @@ date: 2021-03-02T00:00:00+01:00
 lastmod:
 featured: false
 draft: false
-
+text-align: justify
 # Featured image
 
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,7 +37,7 @@ preview_only: false
 
 ## Data Scientists Don't Exist
 
-I'm going to deviate from my usual technical post as this blog post is more of an opinion piece (with a very clickbaity title) about the current state of what we call data science. I want to highlight this is my opinion only and it's based on my anecdotal experience so far in the field so YMMV. The inspiration comes from a series of posts and discussions on social media talking about data scientist roles and what they represent, like [this reddit post asking for interviewers to stop with Leetcode questions](https://www.reddit.com/r/datascience/comments/lkn4rl/please_stop_asking_data_scientists_about_leetcode/). The answers are even better than the post itself and highlight in my opinion a profound misunderstanding of what data scientists are which I thought was already figured out in 2021, but here we are.
+Before we start I want to highlight this is my opinion only and it's based on my anecdotal experience so far in the field so YMMV. The inspiration for this post (with a very clickbaity title) comes from a series of discussions on social media talking about data scientist roles and what they represent, like [this reddit post asking for interviewers to stop with Leetcode questions](https://www.reddit.com/r/datascience/comments/lkn4rl/please_stop_asking_data_scientists_about_leetcode/). The answers are even better than the post itself and highlight in my opinion a profound misunderstanding of what data scientists are which I thought was already figured out in 2021, but here we are.
 
 **Data science isn't a role, it's a spectrum of roles**. It ranges from data engineers on one extreme to pure deep learning researchers on the other with BI and data analyst somewhere in the middle (no I'm not going to insert a Venn diagram). Add to the mix new roles like [analytics engineer](https://blog.getdbt.com/what-is-an-analytics-engineer/) and you've given your HR manager a headache when it's time to write down the specifications for your new data scientist position. However most companies, people, or students still operate under the assumption that data science consists of building fancy machine learning models and are therefore very dissapointed when they realize their job is the absolute opposite of doing machine learning. [This hilarious post by Kenny Ning](https://kleandata.substack.com/p/data-science-is-different) perfectly summarizes the issue. Now don't get me wrong a few brilliant individuals at Google, StitchFix, Nvidia or any cool computer vision startup actually get to work on building fancy models all day like their life is one never ending Kaggle competition made of glittery clean data, but for mortals like (probably) you and me this will almost never be the case. Data scientists are like unicorns, they don't exist or if they do they are a handful of mythical creatures that you won't be able to afford anyway.
 
