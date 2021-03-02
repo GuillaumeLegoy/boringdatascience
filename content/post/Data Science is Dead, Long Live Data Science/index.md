@@ -35,6 +35,7 @@ preview_only: false
 ## projects: []
 ---
 
+<div style="text-align: right">    
 ## Data Scientists Don't Exist
 
 Before we start I want to highlight this is my opinion only and it's based on my anecdotal experience so far in the field so YMMV. The inspiration for this post (with a very clickbaity title) comes from a series of discussions on social media talking about data scientist roles and what they represent, like [this reddit post asking for interviewers to stop with Leetcode questions](https://www.reddit.com/r/datascience/comments/lkn4rl/please_stop_asking_data_scientists_about_leetcode/). The answers are even better than the post itself and highlight in my opinion a profound misunderstanding of what data scientists are which I thought was already figured out in 2021, but here we are.
@@ -54,3 +55,5 @@ Secondly **communicate** what you need to the recruiting team. This isn't the jo
 Finally if you are on the other side as a recent data science graduate or equivalent and you are looking to get into the field, make sure you understand the above distinction and ask the right questions during interviews. This will lessen the probability that you end up in a role you actually hate. Also don't be afraid to explore the boring side of data science (see what I did here?...no?...ok): basic software engineering best practice like version control, testing your code, basic cloud services, data structures, etc. are not that hard to get started with but can give you an edge and who knows maybe you'll realize data engineering is actually great.
 
 Happy coding!
+
+</div>
