@@ -35,7 +35,7 @@ preview_only: false
 ## projects: []
 ---
 
-<div style="text-align: right">    
+<div style="text-align: justify">    
 ## Data Scientists Don't Exist
 
 Before we start I want to highlight this is my opinion only and it's based on my anecdotal experience so far in the field so YMMV. The inspiration for this post (with a very clickbaity title) comes from a series of discussions on social media talking about data scientist roles and what they represent, like [this reddit post asking for interviewers to stop with Leetcode questions](https://www.reddit.com/r/datascience/comments/lkn4rl/please_stop_asking_data_scientists_about_leetcode/). The answers are even better than the post itself and highlight in my opinion a profound misunderstanding of what data scientists are which I thought was already figured out in 2021, but here we are.
