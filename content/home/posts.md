@@ -60,16 +60,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = "
- .h2 {
-    color: #e25e6a;
-}
- .h1 {
-    color: #e25e6a;
-}
-.article-title a:hover {
-    color: #265483;
-}"
+ css_style = ".h2 { color: #e25e6a;} .h1 {color: #e25e6a;} .article-title a:hover {color: #265483;}"
 
 
 
