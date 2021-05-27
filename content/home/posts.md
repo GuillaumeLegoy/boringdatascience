@@ -45,7 +45,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#ffffff"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -60,7 +60,15 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "
+ .article-style a {
+    color: #e25e6a;
+},
+.article-title a:hover {
+    color: #265483;
+}"
+
+
 
  # CSS class.
  css_class = ""
