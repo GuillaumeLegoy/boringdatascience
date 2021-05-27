@@ -1,6 +1,6 @@
 name = "nunito"
 
-google_fonts = "family=Nunito+Sans:wght@200"
+google_fonts = "family=Nunito+Sans:wght@200;400"
 
 # Font families
 heading_font = "Nunito Sans"
