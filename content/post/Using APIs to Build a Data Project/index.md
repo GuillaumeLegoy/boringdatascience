@@ -23,7 +23,7 @@ preview_only: false
 <div style="text-align: justify">    
   
 
-## APIs Are Everywhere and a Great Source of Data Projects Opportunities
+## APIs are everywhere and a great source of data projects opportunities
 
 One of the biggest hurdle when starting a data project is to find useful, interesting data. Many websites provide great datasets like [Kaggle](https://www.kaggle.com/datasets) or [Google](https://datasetsearch.research.google.com/), but the real gems hide behind APIs. What's an API you ask? Well API stands for Application Programming Interface. It sounds pretty scary but in short APIs allow us to query applications or server using URLs and in return we receive data. Simple as that. APIs are nowadays ubiquitous and pretty much every website and application use them, see [here](https://github.com/public-apis/public-apis) for a ton of examples. I won't dwelve any longer in what are APIs as the goal of this post is to learn how we can use them, but I definitely invite you to read more on the subject. To this effect I share a few links at the bottom of this article for further reading.
 
@@ -52,7 +52,7 @@ Finally, in addition to the fun they can provide APIs offers many tangible benef
 However the "downside" (but very soon to be an upside) is APIs require code and programmatic access to use them. It personally used to scare me as I thought APIs were too complex for me to use and only software engineers could make good use of them. If you are in the same situation I'm now going to show you that it's far from the truth and that anyone can get started using APIs to gather data. I aim to give you enough tools that by the end of this post I hope you'll be confident enough to get started on your own.
 
 
-## Digging into Elon Musk tweets in Python using the Requests Library
+## Digging into Elon Musk tweets in Python using the requests library
 
 For this demo I'll use the [Twitter API](https://developer.twitter.com/en/docs). Together we will create a new Poetry project and set up everything we need to access the Twitter API. Our objective here is to retrieve Elon Musk tweets. By the end you'll be able to use the same methodology to access any API of your choice. The authentication method can sometimes be different but the process should be roughly the same. Finally always make sure to read the documentation of the API you want to access, it will make your life way easier.
 
@@ -109,7 +109,7 @@ export TWITTER_DEMO_SECRET='YOUR-SECRET'
 export TWITTER_BEARER_TOKEN='YOUR-BEARER-TOKEN'
 ```
 
-### Query Elon Musk Tweets
+### Query Elon Musk tweets
 
 Ok now for the fun part! Here we write a very basic Python script but that is litteraly everything you need to get started. It's very important when building side projects to start simple and accumulates small wins along the way in order to avoid burn out and keep the project alive. We don't build intricate applications or massive data pipelines in a few weeks. I'm personally not motivated to code every single day, and that's perfectly fine. Start small, celebrate your achievements, and enjoy the ride.
 
@@ -181,7 +181,7 @@ def get_author_tweets_url():
 
 
 def build_request_header():
-    return {"Authorization": "Bearer {}".format(get_bearer_token())}
+    return {"Authorization": f"Bearer {get_bearer_token()}"
 
 
 def extract_tweets_info(tweets_list):
