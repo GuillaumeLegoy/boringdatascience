@@ -25,6 +25,7 @@ preview_only: false
 
 ## APIs are everywhere and a great source of data projects opportunities
 
+
 One of the biggest hurdle when starting a data project is to find useful, interesting data. Many websites provide great datasets like [Kaggle](https://www.kaggle.com/datasets) or [Google](https://datasetsearch.research.google.com/), but the real gems hide behind APIs. What's an API you ask? Well API stands for Application Programming Interface. It sounds pretty scary but in short APIs allow us to query applications or server using URLs and in return we receive data. Simple as that. APIs are nowadays ubiquitous and pretty much every website and application use them, see [here](https://github.com/public-apis/public-apis) for a ton of examples. I won't dwelve any longer in what are APIs as the goal of this post is to learn how we can use them, but I definitely invite you to read more on the subject. To this effect I share a few links at the bottom of this article for further reading.
 
 
@@ -129,7 +130,7 @@ def get_author_tweets_url():
 
 
 def build_request_header():
-    return {"Authorization": "Bearer {}".format(get_bearer_token())}
+    return {"Authorization": f"Bearer {get_bearer_token()}"
 
 
 if __name__ == "__main__":
