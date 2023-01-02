@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Installing and Managing Python Using Homebrew on Mac'
+title: 'Installing and Managing Python Using pyenv on Mac'
 subtitle: ''
 summary: ''
 authors: []
@@ -41,6 +41,8 @@ The goal of this post is pretty trivial: act as a reference on how to install an
 
 
 ## Commands to Execute
+
+First you'll need [!homebrew](https://brew.sh/). Install it if not already done.
 
 We will use [!pyenv](https://github.com/pyenv/pyenv), which is (probably?) the best way to manage Python on your system in 2023. Let's get started by opening your terminal and enter:
 
