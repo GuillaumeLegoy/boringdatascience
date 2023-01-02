@@ -79,12 +79,14 @@ eval "$(pyenv init --path)"
 Tada! We're done. Relaunch your terminal or run `source ~/.zprofile` and Python will now be installed and ready to go.
 
 
-## Additional Useful Commands
+## Additional Useful Commands and Resources
 
 ```bash
 pyenv versions # List installed Python versions
 pyenv install --list # List available Python versions
 ```
+
+To manage versions on your systems, read: https://realpython.com/intro-to-pyenv/#specifying-your-python-version.
 
 
 Happy coding!
