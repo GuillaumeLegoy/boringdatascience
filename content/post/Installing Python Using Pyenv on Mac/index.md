@@ -42,9 +42,9 @@ The goal of this post is pretty trivial: act as a reference on how to install an
 
 ## Commands to Execute
 
-First you'll need [!homebrew](https://brew.sh/). Install it if not already done.
+First you'll need [homebrew](https://brew.sh/). Install it if not already done.
 
-We will use [!pyenv](https://github.com/pyenv/pyenv), which is (probably?) the best way to manage Python on your system in 2023. Let's get started by opening your terminal and enter:
+We will use [pyenv](https://github.com/pyenv/pyenv), which is (probably?) the best way to manage Python on your system in 2023. Let's get started by opening your terminal and enter:
 
 ```bash
 brew install pyenv
