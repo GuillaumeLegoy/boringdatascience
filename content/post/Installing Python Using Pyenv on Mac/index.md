@@ -43,6 +43,10 @@ The goal of this post is pretty trivial: act as a reference on how to install an
 
 
 ## Commands to Execute
+------------  
+
+
+
 
 
 First you'll need [homebrew](https://brew.sh/). Install it if not already done.
@@ -84,7 +88,14 @@ eval "$(pyenv init --path)"
 Tada! We're done. Relaunch your terminal or run `source ~/.zprofile` and Python will now be installed and ready to go.
 
 
+
+
+
 ## Additional Useful Commands and Resources
+------------  
+
+
+
 
 ```bash
 pyenv versions # List installed Python versions
