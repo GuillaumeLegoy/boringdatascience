@@ -12,6 +12,8 @@ lastmod:
 featured: false
 draft: false
 text-align: justify
+[blackfriday]
+  extensions = ["hardLineBreak"]
 # Featured image
 
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,6 +43,7 @@ The goal of this post is pretty trivial: act as a reference on how to install an
 
 
 ## Commands to Execute
+
 
 First you'll need [homebrew](https://brew.sh/). Install it if not already done.
 
