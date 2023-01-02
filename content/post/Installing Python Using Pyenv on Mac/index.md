@@ -72,7 +72,7 @@ pyenv install 3.11.1
 pyenv global 3.11.1
 ```
 
-Finally add the folloing to `~/.zprofile`:
+Finally add the following to `~/.zprofile`:
 
 ```bash
 eval "$(pyenv init --path)"
